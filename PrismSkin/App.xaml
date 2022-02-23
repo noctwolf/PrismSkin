@@ -1,0 +1,15 @@
+﻿<prism:PrismApplication x:Class="PrismSkin.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	     xmlns:prism="http://prismlibrary.com/">
+    <prism:PrismApplication.Resources>
+
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/PrismSkin.Themes;component/Themes/Themes1/Dictionary.xaml"/>
+                <ResourceDictionary Source="/PrismSkin.Themes;component/Themes/Themes2/Dictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+    </prism:PrismApplication.Resources>
+</prism:PrismApplication>
