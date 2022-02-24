@@ -6,7 +6,7 @@
 
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="/PrismSkin.Themes;component/Themes/Themes1/Dictionary.xaml"/>
+                <!--<ResourceDictionary Source="/PrismSkin.Themes;component/Themes/Themes1/Dictionary.xaml"/>-->
                 <ResourceDictionary Source="/PrismSkin.Themes;component/Themes/Themes2/Dictionary.xaml"/>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

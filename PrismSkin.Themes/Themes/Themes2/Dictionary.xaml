@@ -5,7 +5,7 @@
         <StackPanel>
             <Image Source="{svgc:SvgImage Add.svg}"/>
             <TextBlock Text="{Binding}" HorizontalAlignment="Center"/>
-            <TextBlock Text="2" HorizontalAlignment="Center"/>
+            <TextBlock Text="模板二" HorizontalAlignment="Center"/>
         </StackPanel>
     </DataTemplate>
 
